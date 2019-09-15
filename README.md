@@ -7,4 +7,4 @@ Steps on getting started
 * Update Guna.UI Framework DLL
 
 Watch the video [https://youtu.be/nOqJnViLKms]
-![](https://github.com/sobatdata/Guna.UI-ResizingBorderlessWinFrom/blob/master/ss.png)
+![](https://github.com/sobatdata/Guna.UI-LoginForm-DarkUI/blob/master/ss.png)
